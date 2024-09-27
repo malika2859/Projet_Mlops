@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c324d738e722497a8dd19accad35ceec/artifacts
+end_time: 1727396959343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c324d738e722497a8dd19accad35ceec
+run_name: sassy-sow-0
+run_uuid: c324d738e722497a8dd19accad35ceec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727396959275
+status: 4
+tags: []
+user_id: ec
