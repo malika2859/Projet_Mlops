@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/d4e5a72874684da8a71878a71a1d96c4/artifacts
+deleted_time: 1727405723494
 end_time: 1727397560953
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d4e5a72874684da8a71878a71a1d96c4
 run_name: shivering-skunk-457
 run_uuid: d4e5a72874684da8a71878a71a1d96c4

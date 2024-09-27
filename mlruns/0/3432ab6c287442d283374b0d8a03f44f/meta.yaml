@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/3432ab6c287442d283374b0d8a03f44f/artifacts
+deleted_time: 1727405723494
 end_time: 1727397372867
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3432ab6c287442d283374b0d8a03f44f
 run_name: marvelous-hare-106
 run_uuid: 3432ab6c287442d283374b0d8a03f44f

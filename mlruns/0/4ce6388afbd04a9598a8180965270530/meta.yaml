@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4ce6388afbd04a9598a8180965270530/artifacts
+end_time: 1727449861985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ce6388afbd04a9598a8180965270530
+run_name: gifted-stork-520
+run_uuid: 4ce6388afbd04a9598a8180965270530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727449857674
+status: 4
+tags: []
+user_id: ec

@@ -1,0 +1,32 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.16.2
+model_size_bytes: 1831
+model_uuid: 09f9b926f1444871aad5b985d42f5eb9
+run_id: 48f671cb98ab49d4a45d8b1e0ea4b7f4
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "double", "name": "credit_lines_outstanding", "required": true},
+    {"type": "double", "name": "loan_amt_outstanding", "required": true}, {"type":
+    "double", "name": "total_debt_outstanding", "required": true}, {"type": "double",
+    "name": "income", "required": true}, {"type": "double", "name": "years_employed",
+    "required": true}, {"type": "double", "name": "fico_score", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+utc_time_created: '2024-09-27 03:16:04.860056'

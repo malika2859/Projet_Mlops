@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/462e60a6515b494d9321f4174306dcaa/artifacts
+deleted_time: 1727405723493
 end_time: 1727397193692
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 462e60a6515b494d9321f4174306dcaa
 run_name: melodic-turtle-488
 run_uuid: 462e60a6515b494d9321f4174306dcaa

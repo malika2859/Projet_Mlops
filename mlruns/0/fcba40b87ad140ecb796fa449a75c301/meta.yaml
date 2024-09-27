@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fcba40b87ad140ecb796fa449a75c301/artifacts
+deleted_time: 1727449762592
+end_time: 1727406485471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fcba40b87ad140ecb796fa449a75c301
+run_name: clumsy-hawk-337
+run_uuid: fcba40b87ad140ecb796fa449a75c301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727406481430
+status: 4
+tags: []
+user_id: ec

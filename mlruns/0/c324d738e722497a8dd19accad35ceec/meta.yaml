@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/c324d738e722497a8dd19accad35ceec/artifacts
+deleted_time: 1727405723508
 end_time: 1727396959343
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c324d738e722497a8dd19accad35ceec
 run_name: sassy-sow-0
 run_uuid: c324d738e722497a8dd19accad35ceec

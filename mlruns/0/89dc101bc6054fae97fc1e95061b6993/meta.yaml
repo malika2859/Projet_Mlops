@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/89dc101bc6054fae97fc1e95061b6993/artifacts
+end_time: 1727449942358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89dc101bc6054fae97fc1e95061b6993
+run_name: nosy-wasp-163
+run_uuid: 89dc101bc6054fae97fc1e95061b6993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727449938215
+status: 3
+tags: []
+user_id: ec
