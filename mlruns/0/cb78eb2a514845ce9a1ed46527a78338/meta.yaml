@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/cb78eb2a514845ce9a1ed46527a78338/artifacts
+end_time: 1727471421693
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb78eb2a514845ce9a1ed46527a78338
+run_name: popular-owl-241
+run_uuid: cb78eb2a514845ce9a1ed46527a78338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727471417138
+status: 3
+tags: []
+user_id: ec

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/145a29e5f63f4afe88ec6c5caa7841cc/artifacts
+end_time: 1727472385189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 145a29e5f63f4afe88ec6c5caa7841cc
+run_name: chill-stag-958
+run_uuid: 145a29e5f63f4afe88ec6c5caa7841cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727472381576
+status: 3
+tags: []
+user_id: ec

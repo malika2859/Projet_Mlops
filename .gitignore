@@ -1,0 +1,31 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+
+# MLflow
+mlruns/
+
+# Model files
+*.joblib
+*.pkl
+
+# Data
+*.csv
+*.json
+*.xlsx
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

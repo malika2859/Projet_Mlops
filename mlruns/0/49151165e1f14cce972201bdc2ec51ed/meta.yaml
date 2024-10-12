@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/49151165e1f14cce972201bdc2ec51ed/artifacts
+end_time: 1727470944388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49151165e1f14cce972201bdc2ec51ed
+run_name: unique-wren-576
+run_uuid: 49151165e1f14cce972201bdc2ec51ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727470933527
+status: 3
+tags: []
+user_id: ec

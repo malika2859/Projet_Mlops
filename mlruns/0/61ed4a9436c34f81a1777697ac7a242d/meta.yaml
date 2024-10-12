@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/61ed4a9436c34f81a1777697ac7a242d/artifacts
+end_time: 1727472676186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61ed4a9436c34f81a1777697ac7a242d
+run_name: welcoming-smelt-0
+run_uuid: 61ed4a9436c34f81a1777697ac7a242d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727472672415
+status: 3
+tags: []
+user_id: ec

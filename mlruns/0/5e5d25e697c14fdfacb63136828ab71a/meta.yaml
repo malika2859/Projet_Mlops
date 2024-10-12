@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/5e5d25e697c14fdfacb63136828ab71a/artifacts
+end_time: 1727471305006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e5d25e697c14fdfacb63136828ab71a
+run_name: salty-skunk-199
+run_uuid: 5e5d25e697c14fdfacb63136828ab71a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727471299809
+status: 3
+tags: []
+user_id: ec

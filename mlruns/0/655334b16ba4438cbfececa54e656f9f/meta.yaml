@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/655334b16ba4438cbfececa54e656f9f/artifacts
+end_time: 1727474123771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 655334b16ba4438cbfececa54e656f9f
+run_name: thoughtful-bug-746
+run_uuid: 655334b16ba4438cbfececa54e656f9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727474118209
+status: 3
+tags: []
+user_id: ec

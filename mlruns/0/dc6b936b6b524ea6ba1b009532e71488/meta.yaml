@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/dc6b936b6b524ea6ba1b009532e71488/artifacts
+end_time: 1727479537154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc6b936b6b524ea6ba1b009532e71488
+run_name: orderly-mule-64
+run_uuid: dc6b936b6b524ea6ba1b009532e71488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727479536553
+status: 3
+tags: []
+user_id: ec

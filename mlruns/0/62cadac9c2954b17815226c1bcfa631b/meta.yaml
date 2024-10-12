@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/62cadac9c2954b17815226c1bcfa631b/artifacts
+end_time: 1727474553149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62cadac9c2954b17815226c1bcfa631b
+run_name: brawny-sheep-516
+run_uuid: 62cadac9c2954b17815226c1bcfa631b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727474548617
+status: 3
+tags: []
+user_id: ec

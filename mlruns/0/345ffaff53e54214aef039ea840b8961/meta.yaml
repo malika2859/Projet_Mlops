@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/345ffaff53e54214aef039ea840b8961/artifacts
+end_time: 1727479454736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 345ffaff53e54214aef039ea840b8961
+run_name: gaudy-mare-526
+run_uuid: 345ffaff53e54214aef039ea840b8961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727479454432
+status: 3
+tags: []
+user_id: ec

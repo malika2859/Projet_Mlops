@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/abfd517cdd3d4bc9b99c43f8968122d2/artifacts
+end_time: 1727473646195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abfd517cdd3d4bc9b99c43f8968122d2
+run_name: suave-cow-26
+run_uuid: abfd517cdd3d4bc9b99c43f8968122d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727473640916
+status: 3
+tags: []
+user_id: ec

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/8670e79058aa45ca86ccc03fd0b44c2e/artifacts
+end_time: 1727474747806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8670e79058aa45ca86ccc03fd0b44c2e
+run_name: bemused-cow-781
+run_uuid: 8670e79058aa45ca86ccc03fd0b44c2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727474741262
+status: 3
+tags: []
+user_id: ec

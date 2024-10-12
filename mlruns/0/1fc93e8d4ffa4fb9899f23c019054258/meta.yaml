@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/1fc93e8d4ffa4fb9899f23c019054258/artifacts
+end_time: 1727479503643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fc93e8d4ffa4fb9899f23c019054258
+run_name: valuable-fawn-760
+run_uuid: 1fc93e8d4ffa4fb9899f23c019054258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727479503334
+status: 3
+tags: []
+user_id: ec

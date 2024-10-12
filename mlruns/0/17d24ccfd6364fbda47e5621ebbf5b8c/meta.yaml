@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/17d24ccfd6364fbda47e5621ebbf5b8c/artifacts
+end_time: 1727472247965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17d24ccfd6364fbda47e5621ebbf5b8c
+run_name: inquisitive-bat-230
+run_uuid: 17d24ccfd6364fbda47e5621ebbf5b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727472242184
+status: 3
+tags: []
+user_id: ec

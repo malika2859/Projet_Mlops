@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/8b7c688377c5429db7ea8084b0f32b9f/artifacts
+end_time: 1727474645883
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b7c688377c5429db7ea8084b0f32b9f
+run_name: efficient-finch-816
+run_uuid: 8b7c688377c5429db7ea8084b0f32b9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727474641105
+status: 3
+tags: []
+user_id: ec

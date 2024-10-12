@@ -1,0 +1,22 @@
+artifact_path: random_forest_model
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.16.2
+model_size_bytes: 258
+model_uuid: a09d7aa5c9c94825bd2dc479535fbac7
+run_id: 4d82def8fff340ef8361f061c3b936dc
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "feature1", "required": false}, {"type": "double",
+    "name": "feature2", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+utc_time_created: '2024-09-27 21:39:25.574367'

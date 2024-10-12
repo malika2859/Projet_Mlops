@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ec/OneDrive/Bureau/PROJET_MLOPS/mlruns/0/302fe996bda94055a744f75e09241b87/artifacts
+end_time: 1727474477125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 302fe996bda94055a744f75e09241b87
+run_name: welcoming-newt-532
+run_uuid: 302fe996bda94055a744f75e09241b87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727474472227
+status: 3
+tags: []
+user_id: ec
