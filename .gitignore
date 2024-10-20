@@ -1,0 +1,20 @@
+# Ignorer les fichiers temporaires de notebooks
+.ipynb_checkpoints/
+
+# Ignorer les images Docker construites localement
+*.tar
+
+# Ignorer les environnements virtuels Python
+venv/
+*.venv
+
+# Ignorer les fichiers de cache et de log
+*.log
+*.cache
+
+# Ignorer les fichiers de configuration spécifiques à l'utilisateur
+.DS_Store
+Thumbs.db
+myenv/
+venv/
+*.pyd
